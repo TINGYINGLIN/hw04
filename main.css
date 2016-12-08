@@ -1,0 +1,34 @@
+
+/*---四個三角形顏色-----*/
+.rect{
+width:0px;
+height:0px;
+
+border-top:50px solid green;
+border-right:50px solid RED;
+border-bottom:50px solid BLUE;
+border-left:50px solid YELLOW;}
+
+
+
+/*---馬力歐---*/ 
+
+.TOP {
+    width: 200px;
+    height: 50px;
+    background: lightgREEN;
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 4px solid green;
+    border-bottom: 6PX dotted green;
+    border-top: 6px double green;
+}
+
+.DOWN {
+    width: 150px;
+    height: 200px;
+    background: lightgREEN;
+    margin-left: 125px;
+    border: 4px solid green;
+    border-top: 6px;
+}
